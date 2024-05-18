@@ -2,6 +2,7 @@
 
 Se desarrolla el ejercicio integrador propuesto por Henry, Se manejaron los entornos propuestos por el ejercio y se vieron los siguientes contenedores: 
 
+![Captura de pantalla para ver contenedores corriendo](https://github.com/psm545/EJERCICIO_INTEGRADOR_M4_DESARROLLO/blob/main/Captura%20de%20pantalla%202024-05-17%20a%20la(s)%2011.03.41%E2%80%AFp.%C2%A0m..png)https://github.com/psm545/EJERCICIO_INTEGRADOR_M4_DESARROLLO/blob/main/Captura%20de%20pantalla%202024-05-17%20a%20la(s)%2011.03.41%E2%80%AFp.%C2%A0m..png
 
 
 # Entorno Docker con Hadoop, Spark y Hive
